@@ -15,7 +15,7 @@
         Blunt: 0.90
         Slash: 0.80
         Piercing: 0.50
-        Heat: 0.90
+        Heat: 0.80
   - type: StaminaResistance
     damageCoefficient: 0.6 # Decent at stopping disablers
   - type: ClothingSpeedModifier
