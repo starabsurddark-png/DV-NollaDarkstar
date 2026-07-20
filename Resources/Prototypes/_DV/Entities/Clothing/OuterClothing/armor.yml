@@ -77,7 +77,7 @@
   - type: ClothingSpeedModifier
     walkModifier: 0.85
     sprintModifier: 0.85
-  - type: ExplosionResistance # Almost as good as a plate carrier! Still not going to save you from most bombs though.
+  - type: ExplosionResistance # Same protection as the Advanced Plate Carrier.
     damageCoefficient: 0.60
   - type: GroupExamine
   - type: AllowSuitStorage
