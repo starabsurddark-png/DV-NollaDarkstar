@@ -75,10 +75,10 @@
   - type: StaminaResistance
     damageCoefficient: 0.5
   - type: ClothingSpeedModifier
-    walkModifier: 0.75
-    sprintModifier: 0.75
+    walkModifier: 0.85
+    sprintModifier: 0.85
   - type: ExplosionResistance # Almost as good as a plate carrier! Still not going to save you from most bombs though.
-    damageCoefficient: 0.80
+    damageCoefficient: 0.60
   - type: GroupExamine
   - type: AllowSuitStorage
   - type: Tag
